@@ -4,7 +4,7 @@
 
 ---
 
-(<img width="737" height="648" alt="Screenshot 2026-02-18 at 11 01 44 PM" src="https://github.com/user-attachments/assets/dcfe77e4-c986-4d33-a4f1-5db7001beb30" />)
+<img width="737" height="648" alt="Screenshot 2026-02-18 at 11 01 44 PM" src="https://github.com/user-attachments/assets/dcfe77e4-c986-4d33-a4f1-5db7001beb30" />
 
 
 ---
@@ -220,7 +220,7 @@ The dashboard provides **self-service analytics** for finance and operations tea
 | Resource | Link |
 |---|---|
 | Live Dashboard | [Google Sheets – Master_Sheet_G12](https://docs.google.com/spreadsheets/d/1cr1qeJf9jVtA1wgLpWgUd_yxEgnW2cgz4zV3d7614Qs/edit?usp=sharing) |
-| Data Cleaning Log | [clean.md](clean.md) |
+| Data Cleaning Log | [clean.md](https://github.com/tanmay-7706/SectionC_Group12_Finance/blob/main/cleaned_dataset/clean.md) |
 | Dataset Source | [Kaggle Financial Transactions](https://www.kaggle.com/datasets/alfarisbachmid/dirty-financial-transactions-dataset) |
 | Full Project Report | [Optimizing Financial Operations [A Data-Driven Approach] (1).pdf](https://github.com/user-attachments/files/25396928/Optimizing.Financial.Operations.A.Data-Driven.Approach.1.pdf)  |
 
