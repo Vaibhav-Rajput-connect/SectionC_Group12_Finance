@@ -9,7 +9,7 @@
 
 ---
 
-[![Live Dashboard](https://docs.google.com/spreadsheets/d/1cr1qeJf9jVtA1wgLpWgUd_yxEgnW2cgz4zV3d7614Qs/edit?gid=1512876693#gid=1512876693&fvid=1594547284) [!Google Sheets](https://docs.google.com/spreadsheets/d/1cr1qeJf9jVtA1wgLpWgUd_yxEgnW2cgz4zV3d7614Qs/edit?usp=sharing)
+[![Live Dashboard](https://docs.google.com/spreadsheets/d/1cr1qeJf9jVtA1wgLpWgUd_yxEgnW2cgz4zV3d7614Qs/edit?gid=1512876693#gid=1512876693&fvid=1594547284)](https://docs.google.com/spreadsheets/d/1cr1qeJf9jVtA1wgLpWgUd_yxEgnW2cgz4zV3d7614Qs/edit?usp=sharing)
 
 ---
 
@@ -56,7 +56,7 @@ To design a **KPI-driven analytical framework** that helps:
 
 | Attribute | Details |
 |---|---|
-| **Source** | Kaggle – Synthetic Financial Transactions |
+| **Source** | [Kaggle – Synthetic Financial Transactions](https://www.kaggle.com/datasets/alfarisbachmid/dirty-financial-transactions-dataset) |
 | **Raw Rows** | 100,000 |
 | **Cleaned Rows** | 89,999 |
 | **Products** | 5 (Tablet, Laptop, Headphones, Coffee Machine, Smartphone) |
@@ -222,8 +222,7 @@ The dashboard provides **self-service analytics** for finance and operations tea
 | Live Dashboard | [Google Sheets – Master_Sheet_G12](https://docs.google.com/spreadsheets/d/1cr1qeJf9jVtA1wgLpWgUd_yxEgnW2cgz4zV3d7614Qs/edit?usp=sharing) |
 | Data Cleaning Log | [clean.md](clean.md) |
 | Dataset Source | [Kaggle Financial Transactions](https://www.kaggle.com/datasets/alfarisbachmid/dirty-financial-transactions-dataset) |
-| Full Project Report | [Project_Report.pdf]([Optimizing Financial Operations [A Data-Driven Approach] (1).pdf](https://github.com/user-attachments/files/25396928/Optimizing.Financial.Operations.A.Data-Driven.Approach.1.pdf)
-) |
+| Full Project Report | [Project_Report]([Optimizing Financial Operations [A Data-Driven Approach] (1).pdf](https://github.com/user-attachments/files/25396928/Optimizing.Financial.Operations.A.Data-Driven.Approach.1.pdf) |
 
 ---
 
